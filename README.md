@@ -1,7 +1,7 @@
 # Part I: An Introduction to Programming
 
 - 程序设计和编程语言
-- [Python: Hello world!](https://hucuyuu.github.io/BeginnerGuide/2.Hello world!) 
+- [Python: Hello world!](https://hucuyuu.github.io/BeginnersGuide/2.Hello world!) 
 - [Python: 1 + 1 问题](https://hucuyuu.github.io/BeginnersGuide/3.1 + 1 问题) 
 - Python: 变量和类型
 - Python: 深入类型... (dict, list 等数据类型)
