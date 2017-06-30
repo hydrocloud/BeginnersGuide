@@ -1,7 +1,7 @@
 # Hello world!
 ## 开始之前
 ### Windows
-如果您使用的是Windows系统，那么在开始之前请安装它。在(https://www.python.org)[https://www.python.org]找到适合您系统的安装包。这里要注意的是，打开安装向导后，需要勾选`add python to PATH`。千万不要尝试用记事本写代码，可以使用PyCharm。
+如果您使用的是Windows系统，那么在开始之前请安装它。在(https://www.python.org)[https://www.python.org] 找到适合您系统的安装包。这里要注意的是，打开安装向导后，需要勾选`add python to PATH`。千万不要尝试用记事本写代码，可以使用PyCharm。
 ### Linux
 大多是Linux都是自带python的，您不需要另外安装，可以直接运行。
 ## 开始写第一个程序
