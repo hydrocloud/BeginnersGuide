@@ -1,6 +1,6 @@
 # Part I: An Introduction to Programming
 
-- 程序设计和编程语言
+- [程序设计和编程语言](https://github.com/hydrocloud/BeginnersGuide/blob/master/1.Programming%20and%20Programming%20Languages.md)
 - [Python: Hello world!](https://github.com/hydrocloud/BeginnersGuide/blob/master/2.Hello%20world!.md) 
 - [Python: 1 + 1 问题](https://github.com/hydrocloud/BeginnersGuide/blob/master/3.1%20%2B%201%20%E9%97%AE%E9%A2%98.md) 
 - Python: 变量和类型
