@@ -14,8 +14,8 @@
 
 # Part II: HydroCloud Services: Connecting the Online and Offline Worlds
 
-- 从业务角度思考: 为什么要编程？
-- 身份: OneIdentity 平台简介
+- [从业务角度思考: 为什么要编程？](https://github.com/hydrocloud/BeginnersGuide/blob/master/B1.Programming%20for%20Business.md)
+- [身份: OneIdentity 平台简介](https://github.com/hydrocloud/BeginnersGuide/blob/master/B2.OneIdentity.md)
 - 学生 ID: 我们的用户是谁？
 - 学生 ID 服务背后: 域、服务和用户模型
 - 遵守规则: 能工作的代码并不总是“好的”
